@@ -1,6 +1,0 @@
-{
-  "name": "Danish-o-Ramish Home",
-  "description": "Dānish-o-Rāmish (DoR) is a community space and institute in Karachi dedicated to cultural revival, art, and well-being.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
